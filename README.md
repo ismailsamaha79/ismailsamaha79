@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ismailsamaha79
+- 👋 Hi, I’m Ismail Samaha
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ...
